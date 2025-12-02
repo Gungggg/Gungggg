@@ -11,9 +11,8 @@ As a 5th semester student majoring in Information Systems at Alauddin State Isla
 ---
 
 <p align="center">
-  <img src="https://github.com/Gungggg/Gungggg/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Gungggg/Gungggg/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gungggg&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
