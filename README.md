@@ -1,6 +1,6 @@
 # Hi 👋! I'm Agung
 
-As a 5th semester student majoring in Information Systems at Alauddin State Islamic University of Makassar. I have a huge passion for technology and am always eager to stay updated on the latest trends in the world. Let's be friends!
+As a 6th semester student majoring in Information Systems at Alauddin State Islamic University of Makassar. I have a huge passion for technology and am always eager to stay updated on the latest trends in the world. Let's be friends!
 
 <p align="left">
   <a href="https://instagram.com/gungg1_" target="_blank">
